@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SHABDKOSH/static/css/main.aff188bb.chunk.css",
+    "main.js": "/SHABDKOSH/static/js/main.10237052.chunk.js",
+    "main.js.map": "/SHABDKOSH/static/js/main.10237052.chunk.js.map",
+    "runtime-main.js": "/SHABDKOSH/static/js/runtime-main.73b0bcbe.js",
+    "runtime-main.js.map": "/SHABDKOSH/static/js/runtime-main.73b0bcbe.js.map",
+    "static/js/2.b0e4d1a1.chunk.js": "/SHABDKOSH/static/js/2.b0e4d1a1.chunk.js",
+    "static/js/2.b0e4d1a1.chunk.js.map": "/SHABDKOSH/static/js/2.b0e4d1a1.chunk.js.map",
+    "index.html": "/SHABDKOSH/index.html",
+    "static/css/main.aff188bb.chunk.css.map": "/SHABDKOSH/static/css/main.aff188bb.chunk.css.map",
+    "static/js/2.b0e4d1a1.chunk.js.LICENSE.txt": "/SHABDKOSH/static/js/2.b0e4d1a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73b0bcbe.js",
+    "static/js/2.b0e4d1a1.chunk.js",
+    "static/css/main.aff188bb.chunk.css",
+    "static/js/main.10237052.chunk.js"
+  ]
+}
